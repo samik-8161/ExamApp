@@ -1,4 +1,4 @@
-# JavaExamApp
+# ExamApp in Java
 
 This is a Desktop application for taking MCQ text of students. Written completely in Java, the application makes sure that the qquestions present in one session (One time slot) are not repeated in the coming sessions (upcoming time slots). It uses various Java Concepts like-
 
